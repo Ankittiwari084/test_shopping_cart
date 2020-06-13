@@ -1,0 +1,4 @@
+Thu, 09 Aug 2018 17:24:46 GMT sequelize deprecated String based operators are now deprecated. Please use Symbol based operators for better security, read more at http://docs.sequelizejs.com/manual/tutorial/querying.html#operators at node_modules/sequelize/lib/sequelize.js:242:13
+Server is started! on port 4201.
+Error: ENOENT: no such file or directory, stat '/home/glorify/client/dist/index.html'
+Error: ENOENT: no such file or directory, stat '/home/glorify/client/dist/index.html'
