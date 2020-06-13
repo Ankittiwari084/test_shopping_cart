@@ -12,11 +12,14 @@ Step 4: Import api collection in postman:
 
 https://www.getpostman.com/collections/bf35965e33ad7ebbd0f7
 
-Step 4: for login credencials 
-        email:ankittiwari084@gmail.com
+Step 5: change db credencial from config/config.js
+
+user credencials
+
+       email:ankittiwari084@gmail.com
         password:123
 
-        email:amit@gmail.com
+      email:amit@gmail.com
         password:123
 
 
