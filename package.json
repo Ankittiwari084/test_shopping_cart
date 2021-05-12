@@ -19,7 +19,7 @@
     "md5": "^2.2.1",
     "mysql": "^2.15.0",
     "mysql2": "^1.5.3",
-    "nodemailer": "^4.6.4",
+    "nodemailer": "^6.4.16",
     "pm2": "^2.10.2",
     "sequelize": "^4.38.0",
     "sequelize-cli": "^4.1.1",
